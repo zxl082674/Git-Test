@@ -52,7 +52,9 @@
 5. 
 6. 合并分支
 7. 删除分支
-   
+8. git pull origin dev  更新代码到本地，自动合并到当前分支
+9. git fetch origin dev 更新代码到本地，不会合并到当前分支
+10. git merge FETCH_HEAD  合并到当前分支
   
 远程仓库修改
 
