@@ -40,3 +40,4 @@
 4. git remote -v  查看本地仓库所关联的远程仓库地址
 5. git push -u origin master 第一次执行
    git push
+远程仓库修改
