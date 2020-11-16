@@ -33,3 +33,10 @@
 2. git log 查看日志
 3. git reflog 查看简版日志
 
+## 将本地仓库提交到远程仓库
+1. 在githup创建一个远程仓库
+2. 本地工作区先提交到本地仓库
+3. git remote add origin https://github.com/zxl082674/Git-Test.git
+4. git remote -v  查看本地仓库所关联的远程仓库地址
+5. git push -u origin master 第一次执行
+   git push
