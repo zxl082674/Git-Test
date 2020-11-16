@@ -39,4 +39,10 @@
 3. git remote add origin https://github.com/zxl082674/Git-Test.git
 4. git remote -v  查看本地仓库所关联的远程仓库地址
 5. git push -u origin master 第一次执行
-   git push
+   git push  把本地仓库推送到远程仓库
+   -u origin master 设置默认提交
+6. git push -u -f origin master 强制推送到远程，不推荐！！！
+
+## 下载项目到本地
+1. 克隆项目：git clone 项目远程仓库地址 整个版本库克隆下来
+2. git clone 适用于本地没有该项目，直接
