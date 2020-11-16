@@ -56,6 +56,8 @@
 9. git fetch origin dev 更新代码到本地，不会合并到当前分支
 10. git merge FETCH_HEAD  合并到当前分支
   
-远程仓库修改
 
-远程修改分支dev
+## 添加协作者
+1. 在当前项目
+
+## 配置ssh密钥
